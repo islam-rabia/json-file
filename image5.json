@@ -1,18 +1,18 @@
 [
-    {
-        "id": 17,
-        "image": "images/Mad Max_ Fury Road.jpg",
-    },
-        {
-        "id": 18,
-        "image": "images/The Shawshank Redemption.jpg",
-    },
-        {
-        "id": 19,
-        "image": "images/The Silence of the Lambs.jpg",
-    },
-        {
-        "id": 20,
-        "image": "images/Whiplash.jpg",
-    }
+  {
+    "id": 17,
+    "image": "images/Mad Max_ Fury Road.jpg"
+  },
+  {
+    "id": 18,
+    "image": "images/The Shawshank Redemption.jpg"
+  },
+  {
+    "id": 19,
+    "image": "images/The Silence of the Lambs.jpg"
+  },
+  {
+    "id": 20,
+    "image": "images/Whiplash.jpg"
+  }
 ]

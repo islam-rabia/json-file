@@ -1,18 +1,18 @@
 [
-    {
-        "id": 13,
-        "image": "images/MV5BYzA4Y2Q4YTMtOTI5OC00NWMyLTk0NTUtODc1ZmQxOTY5MmU5XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
-    },
-    {
-        "id": 14,
-        "image": "images/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-    },
-    {
-        "id": 15,
-        "image": "images/Blade Runner.jpg",
-    },
-    {
-        "id": 16,
-        "image": "images/Gladiator.jpg",
-    }
+  {
+    "id": 13,
+    "image": "images/MV5BYzA4Y2Q4YTMtOTI5OC00NWMyLTk0NTUtODc1ZmQxOTY5MmU5XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
+  },
+  {
+    "id": 14,
+    "image": "images/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "id": 15,
+    "image": "images/Blade Runner.jpg"
+  },
+  {
+    "id": 16,
+    "image": "images/Gladiator.jpg"
+  }
 ]

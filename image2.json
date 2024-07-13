@@ -1,18 +1,18 @@
 [
-    {
-        "id": 5,
-        "image": "images/MV5BMTg3MDc4ODgyOF5BMl5BanBnXkFtZTgwNzY1ODIyNjM@._V1_.jpg",
-    },
-    {
-        "id": 6,
-        "image": "images/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
-    },
-    {
-        "id": 7,
-        "image": "images/MV5BMjExOTIzNzU1OV5BMl5BanBnXkFtZTgwNjYzMjMxMDE@._V1_.jpg",
-    },
-    {
-        "id": 8,
-        "image": "images/MV5BMzBmNWM0YzktOTM2MC00MzVkLWFiNjUtNWVjMWRiOTQ0OWM0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
-    }
+  {
+    "id": 5,
+    "image": "images/MV5BMTg3MDc4ODgyOF5BMl5BanBnXkFtZTgwNzY1ODIyNjM@._V1_.jpg"
+  },
+  {
+    "id": 6,
+    "image": "images/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+  },
+  {
+    "id": 7,
+    "image": "images/MV5BMjExOTIzNzU1OV5BMl5BanBnXkFtZTgwNjYzMjMxMDE@._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "image": "images/MV5BMzBmNWM0YzktOTM2MC00MzVkLWFiNjUtNWVjMWRiOTQ0OWM0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  }
 ]
